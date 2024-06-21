@@ -1,1 +1,1 @@
-# API-SumacWasi
+# SumacWasi-api
